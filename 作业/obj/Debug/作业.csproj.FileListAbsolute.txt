@@ -1,0 +1,8 @@
+E:\k0_pwn\project\作业\作业\bin\Debug\作业.exe.config
+E:\k0_pwn\project\作业\作业\obj\Debug\作业.Form1.resources
+E:\k0_pwn\project\作业\作业\obj\Debug\作业.Properties.Resources.resources
+E:\k0_pwn\project\作业\作业\obj\Debug\作业.csproj.GenerateResource.Cache
+E:\k0_pwn\project\作业\作业\bin\Debug\作业.exe
+E:\k0_pwn\project\作业\作业\bin\Debug\作业.pdb
+E:\k0_pwn\project\作业\作业\obj\Debug\作业.exe
+E:\k0_pwn\project\作业\作业\obj\Debug\作业.pdb
